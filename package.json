@@ -1,0 +1,15 @@
+{
+  "name": "app-por-hacer",
+  "version": "1.0.0",
+  "description": "App de tareas pendientes",
+  "main": "\u001b[D\u001b[D\u001b[D\u001bapp\u001b[C\u001b\u001b[C\u001b[C\u001b[C\u001b\u001b[C\u001b[C\u001b[C\u001b[C.js)",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Julio Villar",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.3.3",
+    "yargs": "^14.0.0"
+  }
+}
